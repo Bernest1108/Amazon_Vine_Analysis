@@ -13,10 +13,12 @@ In order to do this, we used Spark 3.2.1 in order to load in the dataset, create
 
 
 #### Paid Review Dataframe (top 20)
-![paid_df](https://github.com/aKnownSaltMine/Amazon_Vine_Analysis/blob/main/Results/paid_df.png)
+![image](https://user-images.githubusercontent.com/100445489/173845535-27449415-ecdc-4407-8ee3-7a9b77a0030e.png)
+
 
 #### Unpaid Review Dataframe (top 20)
-![upaid_df](https://github.com/aKnownSaltMine/Amazon_Vine_Analysis/blob/main/Results/unpaid_df.png)
+![image](https://user-images.githubusercontent.com/100445489/173845617-3a009445-88c5-4162-aa44-f8ab28b84648.png)
+
 
 ### Statistics
 * When examining the Amazon Video Game Review set data, out of 40,565 total reviews that were considered helpful, only 94 of them were actually members of the vine program leaving the other 40,471 reviews as non vine program reviews. This means that only 0.23% of the total helpful reviews are actually coming out of the vine program. So out of the total amount of reviews, the vine program represent a very small amount of the total reviews that are present in the dataset. 
