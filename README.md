@@ -9,7 +9,8 @@ In order to do this, we used Spark 3.2.1 in order to load in the dataset, create
 ## Results
 ### Dataframes
 #### Helpful Reviews Dataframe (top 20)
-![filtered_help_df](https://github.com/aKnownSaltMine/Amazon_Vine_Analysis/blob/main/Results/filtered_help_df.png)
+![image](https://user-images.githubusercontent.com/100445489/173845377-885e18ba-8390-4f2e-8313-e50d78c803c8.png)
+
 
 #### Paid Review Dataframe (top 20)
 ![paid_df](https://github.com/aKnownSaltMine/Amazon_Vine_Analysis/blob/main/Results/paid_df.png)
